@@ -6,3 +6,4 @@ tokenizers
 huggingface-hub
 pillow
 gunicorn
+onnxruntime
