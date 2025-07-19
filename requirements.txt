@@ -1,0 +1,8 @@
+flask
+torch
+torchvision
+transformers
+tokenizers
+huggingface-hub
+pillow
+gunicorn
